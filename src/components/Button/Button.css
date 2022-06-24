@@ -1,0 +1,19 @@
+.button{
+    background-color: rgb(224, 40, 40);
+    color: rgb(3, 3, 14);
+    border-radius: 6px ;
+    font-size:50px; 
+   text-align: center;
+    transition-duration: 0.4s; 
+    float: left; 
+    margin-left:100px;
+    margin-right:100px;
+    display:block; 
+    cursor: pointer;
+    
+    
+}
+.button:hover{
+    background-color:rgb(116, 226, 43);
+    color: rgb(252, 9, 9);
+}
